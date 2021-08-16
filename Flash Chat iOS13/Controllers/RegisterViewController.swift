@@ -1,10 +1,4 @@
-//
-//  RegisterViewController.swift
-//  Flash Chat iOS13
-//
-//  Created by Himanshu Gupta on 11/07/2020.
-//  Copyright © 2020 mine. All rights reserved.
-//
+
 
 import UIKit
 import Firebase
